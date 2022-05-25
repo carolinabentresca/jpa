@@ -1,6 +1,4 @@
-# JPA
-
-# TEMA : JPA  -Insert-Update-Delete
+## JPA  (Insert-Update-Delete)
 
 ### Proyecto Java / Java Application
 
